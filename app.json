@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/test/test",   
+    "pages/orderMap/orderMap"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "商平粿品店",
+    "navigationBarTextStyle":"white"
+  }  
+}
